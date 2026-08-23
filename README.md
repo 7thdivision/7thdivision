@@ -1,4 +1,4 @@
-## Hi there 👋
+## wip
 
 <!--
 **7thdivision/7thdivision** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
