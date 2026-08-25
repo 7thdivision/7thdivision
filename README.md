@@ -11,6 +11,6 @@
 <p align="center"
 
   
-  [ strawpage ](https://ciggarettewife.straw.page) | [ guestbook](https://elster.atabook.org)
+  [ strawpage ](https://cigarettewife.straw.page) | [ guestbook](https://elster.atabook.org)
  
 <p align="center">
