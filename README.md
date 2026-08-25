@@ -4,7 +4,7 @@
    reo / char 
 <p align="center"
 <p align="center"> 
-   22 , c + h always
+   mdni , c + h ok
 <p align="center"
 
 
