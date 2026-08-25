@@ -1,16 +1,16 @@
-## wip
+<p align="center">
+ <img src="https://github.com/7thdivision/7thdivision/blob/main/fdde22cba375b7f0f4caccff953bf68e%20(1).png" width="500">
+<p align="center"> 
+   reo / char 
+<p align="center"
+<p align="center"> 
+   22 , c + h always
+<p align="center"
 
-<!--
-**7thdivision/7thdivision** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="center"
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+  [ strawpage ](https://ciggarettewife.straw.page) | [ guestbook](https://elster.atabook.org)
+ 
+<p align="center">
